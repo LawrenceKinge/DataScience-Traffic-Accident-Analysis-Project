@@ -15,16 +15,8 @@ In the end, we concluded that using data to guide safety decisions can make a hu
 
 ---
 
-## Acknowledgements
-
-The author wishes to express sincere gratitude to the **UK Road Safety open data portal** for providing the 2014 accident dataset that formed the foundation of this study. Special thanks are also extended to the **Data Science Training Programme** for offering the technical framework and mentorship required to bridge the gap between theoretical data science and practical public safety application.
-
----
-
 ## Table of Contents
 
-- [Abstract](#abstract)
-- [Acknowledgements](#acknowledgements)
 - [List of Figures and Tables](#list-of-figures-and-tables)
 - [List of Abbreviations](#list-of-abbreviations)
 - [Chapter One: Introduction](#chapter-one-introduction)
