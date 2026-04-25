@@ -1,25 +1,5 @@
 # Traffic Accident Analysis for Safety Insights
 
----
-
-### DATA SCIENCE PROJECT REPORT
-**Programme:** Data Science Training Programme
-
----
-
-## Declaration of Originality
-
-I hereby declare that this project report is my own original work and has not been submitted for any other qualification or award. All sources consulted have been acknowledged, and all data used has been collected or obtained through legitimate means.
-
-Where the work of others has been used, it has been fully cited and referenced in accordance with the guidelines provided.
-
-**Student Signature:** ___________________________     **Date:** ________________
-
-**Full Name:** ___________________________
-
-**Student ID:** ___________________________
-
----
 
 ## Abstract
 
@@ -43,7 +23,6 @@ The author wishes to express sincere gratitude to the **UK Road Safety open data
 
 ## Table of Contents
 
-- [Declaration of Originality](#declaration-of-originality)
 - [Abstract](#abstract)
 - [Acknowledgements](#acknowledgements)
 - [List of Figures and Tables](#list-of-figures-and-tables)
